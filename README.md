@@ -1,1 +1,1 @@
-# Python-mini-project
+# Python-mini-project-of-currency-converter.
